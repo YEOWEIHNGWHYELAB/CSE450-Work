@@ -1,0 +1,26 @@
+Due to the utterly useless curriculum we have, search for the following topics.
+
+1) Optimal Binary Search Tree
+2) Longest Common Subsequence https://leetcode.com/problems/longest-common-subsequence/
+3) Optimal Polygon Triangulation
+4) Unique Binary Search Tree https://leetcode.com/problems/unique-binary-search-trees/ [DONE]
+5) Tower of Hanoi Revision
+6) Interval Scheduling
+7) Travelling Salesman Problem https://www.geeksforgeeks.org/traveling-salesman-problem-tsp-implementation/ https://www.youtube.com/watch?v=XaXsJJh-Q5Y
+8) Propose-Reject Algorithm + Gale-Shapley Algorithm
+9) Optimal Matrix Chain Multiplication https://www.geeksforgeeks.org/matrix-chain-multiplication-dp-8/ [DONE]
+10) Homogenous and Particular Solution of Divide and Conquer
+11) Chromatic Number, Independent Set, Clique Definition
+12) Calculate Chromatic Number, Independent Set, Clique
+13) Maximum number of Jobs without overlap
+14) Tight bound of Recursive Fibonacci Sequence https://stackoverflow.com/questions/360748/computational-complexity-of-fibonacci-sequence
+15) Activity Scheduling Problem
+16) Minimizing Time in System
+17) Job Scheduling Problem
+18) Recurrence Relation https://www.youtube.com/watch?v=IawM82BQ4II
+19) Dynamic Programming Approach https://www.youtube.com/watch?v=aPQY__2H3tE
+20) Max Flow Algorithm https://www.youtube.com/watch?v=Iwc3Uj4aaF4 https://www.youtube.com/watch?v=3LG-My_MoWc https://www.scaler.com/topics/data-structures/maximum-flow-and-minimum-cut/
+21) 3 Dimension Matching
+22) Satisfiability - 3SAT/SAT
+23) Generation of a instance of VC from an instance of 3-SAT
+24) Prove that Vertex Cover is NP Complete Problem
